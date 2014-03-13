@@ -1,4 +1,4 @@
-Use OpenCV highgui to scribble on an image.
+A paint brush using OpenCV highgui to scribble on an image.
 #################################################
 Usage:
 argv[0] image_file_name
